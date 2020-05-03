@@ -1,0 +1,6 @@
+https://xmpp.org/
+
+https://www.geeksforgeeks.org/xmpp-protocol/
+
+https://medium.com/@thinkwik/web-sockets-vs-xmpp-which-is-better-for-chat-application-113e3520b327
+
